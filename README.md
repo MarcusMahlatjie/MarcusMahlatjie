@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Marcus Mahlatjie</h1>
 
-<!--
-**MarcusMahlatjie/MarcusMahlatjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am currently a third year Bachelor of Computing student specializing in Software engineering. I am very detail orientated and keen to learn more always. I'm more than passionate about what I do and I aspire to be the best at it. </p>
 
-Here are some ideas to get you started:
+🧑‍🎓 Third year student at Belgium Campus Itversity🏫 <br>
+☁️ I am current working on GraduateView, a NodeJS and React based web app that aims to bridge the gap between new graduates and job opportunities ☁️ <br>
+Email me - [nicmahlatjie@icloud.com](nicmahlatjie@icloud.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages & Tools
+
+<ul>
+  <li>Java</li>
+  <li>C#</li>
+  <li>Javascript</li>
+  <li>Python</li>
+  <li>MySQl</li>
+  <li>MongoDB</li>
+  <li>Git versioning</li>
+</ul>
+
+## Frameworks
+
+<ul>
+  <li>React</li>
+  <li>.NET</li>
+  <li>NodeJS</li>
+  <li>Express</li>
+</ul>
