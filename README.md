@@ -14,7 +14,7 @@ Email me - [nicmahlatjie@icloud.com](nicmahlatjie@icloud.com)
   <li>C#</li>
   <li>Javascript</li>
   <li>Python</li>
-  <li>MySQl</li>
+  <li>MySQL</li>
   <li>MongoDB</li>
   <li>Git versioning</li>
 </ul>
@@ -25,5 +25,5 @@ Email me - [nicmahlatjie@icloud.com](nicmahlatjie@icloud.com)
   <li>React</li>
   <li>.NET</li>
   <li>NodeJS</li>
-  <li>Express</li>
+  <li>ExpressJS</li>
 </ul>
